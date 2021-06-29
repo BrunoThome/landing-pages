@@ -4,7 +4,7 @@ export default {
   title: 'Footer',
   component: Footer,
   args: {
-    content:
+    footerContent:
       '<p><a href="https://beacons.page/otaviomiranda">Feito com ❤ por Bruno Thome</a></p>',
   },
 };

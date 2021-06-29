@@ -8,7 +8,7 @@ exports[`<Menu /> should render logo and main menu 1`] = `
 }
 
 .c7 {
-  color: #FFFFFF;
+  color: #0A1128;
   font-size: 2.4rem;
   text-transform: uppercase;
 }
@@ -332,7 +332,7 @@ exports[`<Menu /> should render without links 1`] = `
 }
 
 .c7 {
-  color: #FFFFFF;
+  color: #0A1128;
   font-size: 2.4rem;
   text-transform: uppercase;
 }

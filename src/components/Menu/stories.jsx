@@ -8,7 +8,8 @@ export default {
     children: 'Menu',
     links: linksMock,
     logoData: {
-      text: 'Logo',
+      text: 'LogoLink',
+      imageSrc: 'assets/images/logo.svg',
       link: '#home',
     },
   },

@@ -12,6 +12,10 @@ export const Grid = styled.div`
     gap: ${theme.spacings.xlarge};
     counter-reset: grid-counter;
     margin-top: ${theme.spacings.xhuge};
+
+    @media ${theme.media.lteMedium} {
+      grid-template-columns: 1fr;
+    }
   `}
 `;
 

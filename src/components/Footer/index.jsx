@@ -5,11 +5,11 @@ import * as Styled from './styles';
 
 export const Footer = ({ content }) => {
   return (
-    <SectionContainer>
-      <Styled.Container>
+    <Styled.Container>
+      <SectionContainer>
         <TextComponent>{content}</TextComponent>
-      </Styled.Container>
-    </SectionContainer>
+      </SectionContainer>
+    </Styled.Container>
   );
 };
 
